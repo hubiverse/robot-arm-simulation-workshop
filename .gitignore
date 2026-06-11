@@ -16,3 +16,4 @@ wheels/
 logs/
 *.log
 
+main_solution.ipynb
