@@ -1,0 +1,12 @@
+[project]
+name = "robot-arm-sim"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gymnasium>=1.2.3",
+    "jupyter>=1.1.1",
+    "panda-gym>=3.0.7",
+    "stable-baselines3[extra]>=2.8.0",
+]
