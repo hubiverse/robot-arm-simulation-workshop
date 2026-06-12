@@ -4,7 +4,7 @@ from stable_baselines3 import SAC
 from stable_baselines3.her.her_replay_buffer import HerReplayBuffer
 from stable_baselines3.common.callbacks import EvalCallback
 
-env_id = "PandaPickAndPlaceDense-v3"
+env_id = "PandaPickAndPlace-v3"
 env = gym.make(env_id)
 
 eval_env = gym.make(env_id)
