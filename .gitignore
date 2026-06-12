@@ -15,5 +15,3 @@ wheels/
 # logs
 logs/
 *.log
-
-main_solution.ipynb
